@@ -1,0 +1,574 @@
+[main] INFO name.mozzhechkov.cloc.ZipUrlCloc - Downloading from: https://github.com/artipie/rpm-adapter/archive/master.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_rpm-adapter\target.zip
+[main] INFO name.mozzhechkov.cloc.ZipCloc - Unzipping: D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_rpm-adapter\target.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_rpm-adapter\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Command:
+cloc-1.84.exe D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_rpm-adapter\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Full stdout/stderr:
+     140 text files.
+     139 unique files.
+      51 files ignored.
+
+github.com/AlDanial/cloc v 1.84  T=1.00 s (119.0 files/s, 13272.0 lines/s)
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Java                           108            974           5183           6369
+Maven                            1              4             19            354
+YAML                             8              0              0            194
+Markdown                         1             29              0             95
+XML                              1              4             19             28
+-------------------------------------------------------------------------------
+SUM:                           119           1011           5221           7040
+-------------------------------------------------------------------------------
+
+[main] INFO name.mozzhechkov.cloc.ZipUrlCloc - Downloading from: https://github.com/artipie/go-adapter/archive/master.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_go-adapter\target.zip
+[main] INFO name.mozzhechkov.cloc.ZipCloc - Unzipping: D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_go-adapter\target.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_go-adapter\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Command:
+cloc-1.84.exe D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_go-adapter\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Full stdout/stderr:
+      32 text files.
+      32 unique files.
+      31 files ignored.
+
+github.com/AlDanial/cloc v 1.84  T=1.00 s (24.0 files/s, 2156.0 lines/s)
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Java                            12             81            558            759
+Maven                            1              4             27            228
+Markdown                         1             40              0            221
+YAML                             8              1             42            181
+Go                               2              2              0             12
+-------------------------------------------------------------------------------
+SUM:                            24            128            627           1401
+-------------------------------------------------------------------------------
+
+[main] INFO name.mozzhechkov.cloc.ZipUrlCloc - Downloading from: https://github.com/artipie/npm-adapter/archive/master.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_npm-adapter\target.zip
+[main] INFO name.mozzhechkov.cloc.ZipCloc - Unzipping: D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_npm-adapter\target.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_npm-adapter\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Command:
+cloc-1.84.exe D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_npm-adapter\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Full stdout/stderr:
+      85 text files.
+      85 unique files.
+      41 files ignored.
+
+github.com/AlDanial/cloc v 1.84  T=0.50 s (160.0 files/s, 14416.0 lines/s)
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Java                            64            394           2742           3133
+Markdown                         2             43              0            308
+Maven                            1              4             20            219
+YAML                             6              0             21            146
+JSON                             5              0              0            144
+XML                              1              4             19             10
+JavaScript                       1              0              0              1
+-------------------------------------------------------------------------------
+SUM:                            80            445           2802           3961
+-------------------------------------------------------------------------------
+
+[main] INFO name.mozzhechkov.cloc.ZipUrlCloc - Downloading from: https://github.com/artipie/asto/archive/master.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_asto\target.zip
+[main] INFO name.mozzhechkov.cloc.ZipCloc - Unzipping: D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_asto\target.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_asto\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Command:
+cloc-1.84.exe D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_asto\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Full stdout/stderr:
+     107 text files.
+     107 unique files.
+      42 files ignored.
+
+github.com/AlDanial/cloc v 1.84  T=1.00 s (100.0 files/s, 9910.0 lines/s)
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Java                            90            706           3912           4692
+Maven                            1              4             23            271
+YAML                             7              3             21            166
+Markdown                         1             18              0             61
+XML                              1              4             19             10
+-------------------------------------------------------------------------------
+SUM:                           100            735           3975           5200
+-------------------------------------------------------------------------------
+
+[main] INFO name.mozzhechkov.cloc.ZipUrlCloc - Downloading from: https://github.com/artipie/artipie/archive/master.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_artipie\target.zip
+[main] INFO name.mozzhechkov.cloc.ZipCloc - Unzipping: D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_artipie\target.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_artipie\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Command:
+cloc-1.84.exe D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_artipie\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Full stdout/stderr:
+     290 text files.
+     278 unique files.
+     128 files ignored.
+
+github.com/AlDanial/cloc v 1.84  T=2.00 s (132.0 files/s, 11375.0 lines/s)
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Java                           168           1372           7299          10861
+Markdown                        18            270              0            894
+YAML                            42              0              5            616
+Maven                            7             42             96            546
+Handlebars                       4             15              6            205
+Bourne Shell                    10             57             58            113
+XML                              3              0              0             69
+JSON                             4              0              0             68
+PHP                              2             13             15             41
+Dockerfile                       1              3              2             16
+Python                           2              5              7             13
+Ruby                             1              0              0             12
+PowerShell                       1              9             10             11
+JavaScript                       1              0              0              1
+-------------------------------------------------------------------------------
+SUM:                           264           1786           7498          13466
+-------------------------------------------------------------------------------
+
+[main] INFO name.mozzhechkov.cloc.ZipUrlCloc - Downloading from: https://github.com/artipie/white-paper/archive/master.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_white-paper\target.zip
+[main] INFO name.mozzhechkov.cloc.ZipCloc - Unzipping: D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_white-paper\target.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_white-paper\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Command:
+cloc-1.84.exe D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_white-paper\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Full stdout/stderr:
+      10 text files.
+      10 unique files.
+       7 files ignored.
+
+github.com/AlDanial/cloc v 1.84  T=0.50 s (14.0 files/s, 12254.0 lines/s)
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+TeX                              3             84            870           5052
+YAML                             3              1             21             84
+Markdown                         1              6              0              9
+-------------------------------------------------------------------------------
+SUM:                             7             91            891           5145
+-------------------------------------------------------------------------------
+
+[main] INFO name.mozzhechkov.cloc.ZipUrlCloc - Downloading from: https://github.com/artipie/docker-adapter/archive/master.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_docker-adapter\target.zip
+[main] INFO name.mozzhechkov.cloc.ZipCloc - Unzipping: D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_docker-adapter\target.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_docker-adapter\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Command:
+cloc-1.84.exe D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_docker-adapter\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Full stdout/stderr:
+     189 text files.
+     188 unique files.
+      80 files ignored.
+
+github.com/AlDanial/cloc v 1.84  T=1.00 s (179.0 files/s, 15809.0 lines/s)
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Java                           170           1185           6753           7424
+Maven                            1              4             19            136
+Markdown                         3             32              0            131
+YAML                             4              1              0            122
+Dockerfile                       1              0              0              2
+-------------------------------------------------------------------------------
+SUM:                           179           1222           6772           7815
+-------------------------------------------------------------------------------
+
+[main] INFO name.mozzhechkov.cloc.ZipUrlCloc - Downloading from: https://github.com/artipie/www.artipie.com/archive/master.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_www.artipie.com\target.zip
+[main] INFO name.mozzhechkov.cloc.ZipCloc - Unzipping: D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_www.artipie.com\target.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_www.artipie.com\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Command:
+cloc-1.84.exe D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_www.artipie.com\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Full stdout/stderr:
+       4 text files.
+       4 unique files.
+       3 files ignored.
+
+github.com/AlDanial/cloc v 1.84  T=0.50 s (6.0 files/s, 196.0 lines/s)
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+HTML                             1              1              0             51
+YAML                             1              1              0             35
+SVG                              1              0              1              9
+-------------------------------------------------------------------------------
+SUM:                             3              2              1             95
+-------------------------------------------------------------------------------
+
+[main] INFO name.mozzhechkov.cloc.ZipUrlCloc - Downloading from: https://github.com/artipie/http/archive/master.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_http\target.zip
+[main] INFO name.mozzhechkov.cloc.ZipCloc - Unzipping: D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_http\target.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_http\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Command:
+cloc-1.84.exe D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_http\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Full stdout/stderr:
+     145 text files.
+     145 unique files.
+      41 files ignored.
+
+github.com/AlDanial/cloc v 1.84  T=1.00 s (141.0 files/s, 12735.0 lines/s)
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Java                           135            996           5869           5373
+Maven                            1              4             26            187
+YAML                             4              1              0            130
+Markdown                         1             29              0            120
+-------------------------------------------------------------------------------
+SUM:                           141           1030           5895           5810
+-------------------------------------------------------------------------------
+
+[main] INFO name.mozzhechkov.cloc.ZipUrlCloc - Downloading from: https://github.com/artipie/maven-adapter/archive/master.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_maven-adapter\target.zip
+[main] INFO name.mozzhechkov.cloc.ZipCloc - Unzipping: D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_maven-adapter\target.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_maven-adapter\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Command:
+cloc-1.84.exe D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_maven-adapter\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Full stdout/stderr:
+     101 text files.
+      95 unique files.
+      73 files ignored.
+
+github.com/AlDanial/cloc v 1.84  T=1.00 s (71.0 files/s, 7882.0 lines/s)
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Java                            53            388           2224           3320
+Maven                            8             37            161           1374
+YAML                             5              1              0            150
+Markdown                         2             26              0             94
+XML                              3             12             57             38
+-------------------------------------------------------------------------------
+SUM:                            71            464           2442           4976
+-------------------------------------------------------------------------------
+
+[main] INFO name.mozzhechkov.cloc.ZipUrlCloc - Downloading from: https://github.com/artipie/nuget-adapter/archive/master.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_nuget-adapter\target.zip
+[main] INFO name.mozzhechkov.cloc.ZipCloc - Unzipping: D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_nuget-adapter\target.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_nuget-adapter\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Command:
+cloc-1.84.exe D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_nuget-adapter\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Full stdout/stderr:
+      79 text files.
+      78 unique files.
+      35 files ignored.
+
+github.com/AlDanial/cloc v 1.84  T=0.50 s (146.0 files/s, 13928.0 lines/s)
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Java                            63            474           2699           3272
+Maven                            1              4             19            187
+YAML                             7              0             42            158
+Markdown                         1             19              0             48
+XML                              1              0              0             42
+-------------------------------------------------------------------------------
+SUM:                            73            497           2760           3707
+-------------------------------------------------------------------------------
+
+[main] INFO name.mozzhechkov.cloc.ZipUrlCloc - Downloading from: https://github.com/artipie/pypi-adapter/archive/master.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_pypi-adapter\target.zip
+[main] INFO name.mozzhechkov.cloc.ZipCloc - Unzipping: D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_pypi-adapter\target.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_pypi-adapter\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Command:
+cloc-1.84.exe D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_pypi-adapter\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Full stdout/stderr:
+      47 text files.
+      45 unique files.
+      38 files ignored.
+
+github.com/AlDanial/cloc v 1.84  T=1.00 s (34.0 files/s, 3279.0 lines/s)
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Java                            26            184           1010           1613
+Maven                            1              4             20            219
+YAML                             3              0              0            114
+Markdown                         2             21              0             68
+Python                           2              2              0             24
+-------------------------------------------------------------------------------
+SUM:                            34            211           1030           2038
+-------------------------------------------------------------------------------
+
+[main] INFO name.mozzhechkov.cloc.ZipUrlCloc - Downloading from: https://github.com/artipie/composer-adapter/archive/master.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_composer-adapter\target.zip
+[main] INFO name.mozzhechkov.cloc.ZipCloc - Unzipping: D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_composer-adapter\target.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_composer-adapter\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Command:
+cloc-1.84.exe D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_composer-adapter\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Full stdout/stderr:
+      34 text files.
+      33 unique files.
+      25 files ignored.
+
+github.com/AlDanial/cloc v 1.84  T=0.50 s (56.0 files/s, 4896.0 lines/s)
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Java                            21            159            839           1035
+Maven                            1              4             19            178
+YAML                             3              0             21             80
+Markdown                         1             24              0             67
+JSON                             2              0              0             22
+-------------------------------------------------------------------------------
+SUM:                            28            187            879           1382
+-------------------------------------------------------------------------------
+
+[main] INFO name.mozzhechkov.cloc.ZipUrlCloc - Downloading from: https://github.com/artipie/gem-adapter/archive/master.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_gem-adapter\target.zip
+[main] INFO name.mozzhechkov.cloc.ZipCloc - Unzipping: D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_gem-adapter\target.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_gem-adapter\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Command:
+cloc-1.84.exe D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_gem-adapter\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Full stdout/stderr:
+      27 text files.
+      27 unique files.
+      22 files ignored.
+
+github.com/AlDanial/cloc v 1.84  T=0.50 s (44.0 files/s, 3976.0 lines/s)
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Java                            11             48            399            518
+Ruby                             2            114             72            374
+Maven                            1              4             21            184
+YAML                             6              1             42            136
+Markdown                         1             20              0             46
+Bourne Shell                     1              0              0              9
+-------------------------------------------------------------------------------
+SUM:                            22            187            534           1267
+-------------------------------------------------------------------------------
+
+[main] INFO name.mozzhechkov.cloc.ZipUrlCloc - Downloading from: https://github.com/artipie/ppom/archive/master.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_ppom\target.zip
+[main] INFO name.mozzhechkov.cloc.ZipCloc - Unzipping: D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_ppom\target.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_ppom\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Command:
+cloc-1.84.exe D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_ppom\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Full stdout/stderr:
+      12 text files.
+      12 unique files.
+       8 files ignored.
+
+github.com/AlDanial/cloc v 1.84  T=0.50 s (18.0 files/s, 1164.0 lines/s)
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Maven                            1              4             32            322
+YAML                             6              0             21            131
+Markdown                         1              8              0             31
+XML                              1              4             19             10
+-------------------------------------------------------------------------------
+SUM:                             9             16             72            494
+-------------------------------------------------------------------------------
+
+[main] INFO name.mozzhechkov.cloc.ZipUrlCloc - Downloading from: https://github.com/artipie/vertx-server/archive/master.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_vertx-server\target.zip
+[main] INFO name.mozzhechkov.cloc.ZipCloc - Unzipping: D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_vertx-server\target.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_vertx-server\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Command:
+cloc-1.84.exe D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_vertx-server\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Full stdout/stderr:
+      15 text files.
+      15 unique files.
+      19 files ignored.
+
+github.com/AlDanial/cloc v 1.84  T=0.50 s (24.0 files/s, 2042.0 lines/s)
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Java                             6             56            287            401
+Maven                            1              4             20             99
+YAML                             4              0             21             82
+Markdown                         1             13              0             38
+-------------------------------------------------------------------------------
+SUM:                            12             73            328            620
+-------------------------------------------------------------------------------
+
+[main] INFO name.mozzhechkov.cloc.ZipUrlCloc - Downloading from: https://github.com/artipie/files-adapter/archive/master.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_files-adapter\target.zip
+[main] INFO name.mozzhechkov.cloc.ZipCloc - Unzipping: D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_files-adapter\target.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_files-adapter\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Command:
+cloc-1.84.exe D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_files-adapter\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Full stdout/stderr:
+      19 text files.
+      19 unique files.
+      18 files ignored.
+
+github.com/AlDanial/cloc v 1.84  T=0.50 s (32.0 files/s, 2514.0 lines/s)
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Java                            11             69            442            460
+Maven                            1              4             20            128
+YAML                             3              0             21             72
+Markdown                         1             11              0             30
+-------------------------------------------------------------------------------
+SUM:                            16             84            483            690
+-------------------------------------------------------------------------------
+
+[main] INFO name.mozzhechkov.cloc.ZipUrlCloc - Downloading from: https://github.com/artipie/vertx-rx/archive/master.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_vertx-rx\target.zip
+[main] INFO name.mozzhechkov.cloc.ZipCloc - Unzipping: D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_vertx-rx\target.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_vertx-rx\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Command:
+cloc-1.84.exe D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_vertx-rx\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Full stdout/stderr:
+     385 text files.
+     291 unique files.
+     275 files ignored.
+
+github.com/AlDanial/cloc v 1.84  T=2.00 s (142.5 files/s, 17014.5 lines/s)
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Java                           254           4051           3598          22778
+Maven                            6             81             30           1742
+AsciiDoc                        16            388              0           1139
+XML                              6              4              0            128
+YAML                             1              0              0             35
+Markdown                         1             19              0             31
+Bourne Shell                     1              0              0              5
+-------------------------------------------------------------------------------
+SUM:                           285           4543           3628          25858
+-------------------------------------------------------------------------------
+
+[main] INFO name.mozzhechkov.cloc.ZipUrlCloc - Downloading from: https://github.com/artipie/npm-proxy-adapter/archive/master.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_npm-proxy-adapter\target.zip
+[main] INFO name.mozzhechkov.cloc.ZipCloc - Unzipping: D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_npm-proxy-adapter\target.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_npm-proxy-adapter\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Command:
+cloc-1.84.exe D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_npm-proxy-adapter\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Full stdout/stderr:
+      51 text files.
+      51 unique files.
+      30 files ignored.
+
+github.com/AlDanial/cloc v 1.84  T=0.50 s (92.0 files/s, 8312.0 lines/s)
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Java                            34            221           1463           1749
+Markdown                         2             24              0            193
+Maven                            1              4             19            165
+YAML                             7              1             42            157
+JSON                             2              0              0            118
+-------------------------------------------------------------------------------
+SUM:                            46            250           1524           2382
+-------------------------------------------------------------------------------
+
+[main] INFO name.mozzhechkov.cloc.ZipUrlCloc - Downloading from: https://github.com/artipie/helm-adapter/archive/master.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_helm-adapter\target.zip
+[main] INFO name.mozzhechkov.cloc.ZipCloc - Unzipping: D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_helm-adapter\target.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_helm-adapter\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Command:
+cloc-1.84.exe D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_helm-adapter\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Full stdout/stderr:
+      26 text files.
+      25 unique files.
+      24 files ignored.
+
+github.com/AlDanial/cloc v 1.84  T=0.50 s (38.0 files/s, 3228.0 lines/s)
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Java                            11             76            502            645
+Maven                            1              4             22            160
+YAML                             6              1             21            143
+Markdown                         1             12              0             28
+-------------------------------------------------------------------------------
+SUM:                            19             93            545            976
+-------------------------------------------------------------------------------
+
+[main] INFO name.mozzhechkov.cloc.ZipUrlCloc - Downloading from: https://github.com/artipie/benchmarks/archive/master.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_benchmarks\target.zip
+[main] INFO name.mozzhechkov.cloc.ZipCloc - Unzipping: D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_benchmarks\target.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_benchmarks\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Command:
+cloc-1.84.exe D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_benchmarks\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Full stdout/stderr:
+      34 text files.
+      34 unique files.
+      17 files ignored.
+
+github.com/AlDanial/cloc v 1.84  T=0.50 s (56.0 files/s, 2656.0 lines/s)
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+HCL                              8             80              6            416
+Markdown                         4             62              0            232
+Bourne Shell                    10             41             27            205
+Python                           2             29             58            129
+YAML                             2              0              0             34
+JSON                             1              0              0              5
+Dockerfile                       1              0              0              4
+-------------------------------------------------------------------------------
+SUM:                            28            212             91           1025
+-------------------------------------------------------------------------------
+
+[main] INFO name.mozzhechkov.cloc.ZipUrlCloc - Downloading from: https://github.com/artipie/central/archive/master.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_central\target.zip
+[main] INFO name.mozzhechkov.cloc.ZipCloc - Unzipping: D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_central\target.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_central\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Command:
+cloc-1.84.exe D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_central\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Full stdout/stderr:
+      12 text files.
+      12 unique files.
+       7 files ignored.
+
+github.com/AlDanial/cloc v 1.84  T=0.50 s (16.0 files/s, 494.0 lines/s)
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Go                               1              9              0            111
+YAML                             3              0              0             93
+Dockerfile                       1              1              0              9
+Markdown                         2              3              0              9
+Bourne Shell                     1              3              0              9
+-------------------------------------------------------------------------------
+SUM:                             8             16              0            231
+-------------------------------------------------------------------------------
+
+[main] INFO name.mozzhechkov.cloc.ZipUrlCloc - Downloading from: https://github.com/artipie/http-client/archive/master.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_http-client\target.zip
+[main] INFO name.mozzhechkov.cloc.ZipCloc - Unzipping: D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_http-client\target.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_http-client\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Command:
+cloc-1.84.exe D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_http-client\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Full stdout/stderr:
+      38 text files.
+      38 unique files.
+      28 files ignored.
+
+github.com/AlDanial/cloc v 1.84  T=0.50 s (66.0 files/s, 7538.0 lines/s)
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Java                            27            271           1334           1797
+Maven                            1              4             20            151
+YAML                             3              1              0            104
+Markdown                         1             11              0             43
+XML                              1              4             19             10
+-------------------------------------------------------------------------------
+SUM:                            33            291           1373           2105
+-------------------------------------------------------------------------------
+
+[main] INFO name.mozzhechkov.cloc.ZipUrlCloc - Downloading from: https://github.com/artipie/helm-charts/archive/master.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_helm-charts\target.zip
+[main] INFO name.mozzhechkov.cloc.ZipCloc - Unzipping: D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_helm-charts\target.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_helm-charts\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Command:
+cloc-1.84.exe D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_helm-charts\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Full stdout/stderr:
+       2 text files.
+       2 unique files.
+       3 files ignored.
+
+github.com/AlDanial/cloc v 1.84  T=0.50 s (2.0 files/s, 4.0 lines/s)
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Markdown                         1              0              0              2
+-------------------------------------------------------------------------------
+
+[main] INFO name.mozzhechkov.cloc.ZipUrlCloc - Downloading from: https://github.com/artipie/blog.artipie.com/archive/master.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_blog.artipie.com\target.zip
+[main] INFO name.mozzhechkov.cloc.ZipCloc - Unzipping: D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_blog.artipie.com\target.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_blog.artipie.com\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Command:
+cloc-1.84.exe D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_blog.artipie.com\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Full stdout/stderr:
+      18 text files.
+      18 unique files.
+      15 files ignored.
+
+github.com/AlDanial/cloc v 1.84  T=0.50 s (26.0 files/s, 874.0 lines/s)
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+Markdown                         6             22              0            163
+HTML                             4              6             25            138
+YAML                             2              4              0             49
+Sass                             1              5              0             25
+-------------------------------------------------------------------------------
+SUM:                            13             37             25            375
+-------------------------------------------------------------------------------
+
+[main] INFO name.mozzhechkov.cloc.ZipUrlCloc - Downloading from: https://github.com/artipie/upload-action/archive/master.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_upload-action\target.zip
+[main] INFO name.mozzhechkov.cloc.ZipCloc - Unzipping: D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_upload-action\target.zip to D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_upload-action\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Command:
+cloc-1.84.exe D:\cloc-tmp\4a07c252-3562-4b80-949e-db228acaefa5\artipie_upload-action\exploded
+[main] INFO name.mozzhechkov.cloc.PathCloc - Full stdout/stderr:
+     343 text files.
+     331 unique files.
+     168 files ignored.
+
+github.com/AlDanial/cloc v 1.84  T=2.00 s (146.0 files/s, 43647.0 lines/s)
+-------------------------------------------------------------------------------
+Language                     files          blank        comment           code
+-------------------------------------------------------------------------------
+TypeScript                     142           1616          15328          49179
+JavaScript                      91           1054           1941          10384
+Markdown                        28           1081              0           3748
+JSON                            23              0              0           2038
+XML                              5              0              0            829
+YAML                             3              0             42             54
+-------------------------------------------------------------------------------
+SUM:                           292           3751          17311          66232
+-------------------------------------------------------------------------------
+
+Total: 164291
