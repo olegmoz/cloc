@@ -37,7 +37,9 @@ public class Runner {
             "artipie/http-client",
             "artipie/helm-charts",
             "artipie/blog.artipie.com",
-            "artipie/upload-action"
+            "artipie/upload-action",
+            "artipie/management-api",
+            "artipie/pypi-example"
         );
         new Runner(artipie).run();
     }
