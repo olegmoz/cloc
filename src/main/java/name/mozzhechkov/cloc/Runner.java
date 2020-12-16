@@ -39,7 +39,8 @@ public class Runner {
             "artipie/blog.artipie.com",
             "artipie/upload-action",
             "artipie/management-api",
-            "artipie/pypi-example"
+            "artipie/pypi-example",
+            "artipie/debian-adapter"
         );
         new Runner(artipie).run();
     }
